@@ -46,4 +46,4 @@ And, then add the following plugin to your build section.
 </plugin>
 ```
 
-
+More information about weaving is at http://www.baeldung.com/aspectj
